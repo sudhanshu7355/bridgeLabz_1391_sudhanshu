@@ -33,5 +33,9 @@ date-8/12/24
 >loop practice questions
 >string practice questions
 
+date-12/12/24
+
+>solved 12 questions from the pdf of 53
+
 
 
