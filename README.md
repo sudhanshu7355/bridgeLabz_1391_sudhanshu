@@ -8,30 +8,16 @@ date-3/12/2024
 
 date-4/12/24
 
->type-conversion,strict mode,js operators,spread operator
->js control flow-if else,while loop,for loop, for...in,for...of,loop control,
+conditional Problems
 
-date-5/12/24
+type-conversion,strict mode,js operators,spread operator js control flow-if else while loop,for loop, for...in,for...of,loop control
 
-> js break statement,continue,switch-case statements
->function- function expression,function parameters,arrow function
->scope- global,block
+js break statement,continue,switch-case statements function- function expression,function parameters,arrow function scope- global,block 
+
 
 date-6/12/2024
 
-> js objects- number,boolean,strings
-> arrays- array methods
-
-date-7/12/24
-
->math-Math.random,Math.floor
->Map-weakmap,set,weakset,weakset,iterables
-
-date-8/12/24
-
->Array practice questions
->loop practice questions
->string practice questions
+> js objects- number,boolean,strings,arrays-array methods
 
 
 
