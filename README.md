@@ -48,3 +48,7 @@ date-18/12/24
 date-23/12/24
 
 >solved linked list questions, linkedlist implementation
+
+date-24/12/24
+
+>binary tree,binary tree implementation
