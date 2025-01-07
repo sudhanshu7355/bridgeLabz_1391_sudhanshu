@@ -56,3 +56,7 @@ date-24/12/24
 date-05/01/25
 
 >vacation assignment
+
+date-07/01/25
+
+>solved 44 to 50 questions from the assignment pdf of 53
