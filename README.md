@@ -64,3 +64,7 @@ date-07/01/25
 date-08/01/25
 
 >DOM problem questions
+
+date-09/01/25
+
+>Stack implementation , push and pop
